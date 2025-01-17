@@ -1,6 +1,12 @@
-# regression_house_price
-Regression model to predict house price.<br>
-Hi, I am creating this minor project to get familiar with GitHub. Untill now I have made small coding projects locally like handtracking, face recognition, game scripts etc mostly using Python and C++.<br>
-I will be using Google Colab Notebook for the Python coding part along with TensorFlow Library to build the said Regression model. I will choose a dataset from Kaggle which I will link here for reference (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)<br>
-# The goal is to make the regression model on my own with litle to no help form the sources. <br>
+# House Price Prediction Using Regression Model
 <br>
+<i>Enter the aim of project.</i>
+<br>
+How do we predict house prices ?
+<br>
+1. We analyse and preprocess the training data and test data to feed in to our model. <br>
+2. For preprocessing, we replace null values with 0 which will indicate missing values instead of empty null strings which can not be interpreted by the model.<br>
+3. Further in preprocessing, we eliminate redundant columns which will not contribute the house price pridiction.<br>
+4. Now, we convert the entire data into numeric form which will be readable by our model.<br>
+<br>
+<i>Explain the working of regression model.</i>
