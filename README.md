@@ -1,6 +1,6 @@
 # House Price Prediction Using Regression Model
 <br>
-<i>Enter the aim of project.</i>
+To predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable.
 <br>
 How do we predict house prices ?
 <br>
@@ -9,4 +9,6 @@ How do we predict house prices ?
 3. Further in preprocessing, we eliminate redundant columns which will not contribute the house price pridiction.<br>
 4. Now, we convert the entire data into numeric form which will be readable by our model.<br>
 <br>
-<i>Explain the working of regression model.</i>
+A regression model works by establishing a mathematical relationship between one or more independent variables and a dependent variable,<br>
+allowing you to predict the value of the dependent variable based on known values of the independent variables. <br>
+Essentially, it finds a "best fit" line through data points to understand how changes in the independent variables influence the dependent variable, enabling predictions based on this relationship.
